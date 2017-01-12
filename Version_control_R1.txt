@@ -1,0 +1,19 @@
+Version Control
+
+
+
+1. How did viewing diff between two versions of a file help you spot the bug?
+
+A. Instead of showing all the lines it show me only those lines which was changed in new file compared to old file.
+
+
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A. So, at any time I can see that what changes I have made till date and how they are affecting my output.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A. By doing it manually you will do it for "one logical reason", while on the other hand in google docs it will make it as a newer version irrespective of any logical reason but with mo=inor changes including typos.
+
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A. So, at any point of time if one wants over all project he can use it or if you are working collabratively and one wants previous version of a complete project he/she can use it.
