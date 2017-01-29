@@ -7,12 +7,20 @@ A. Staging area is actually in between of working directory and git repository.
 
 What value do you think it offers?
 
+
+
 3. How can you use the staging area to make sure you have one commit per logical
 change?
+
 A. So, first do all required changes and add it to staging area but before committing compare and do only one commit.
 
-What are some situations when branches would be helpful in keeping your history
+
+4. What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
+
+A. When you want to do some experimental changed or want to test some exra feature.
+
+
 
 How do the diagrams help you visualize the branch structure?
 
