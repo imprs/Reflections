@@ -17,12 +17,15 @@ A. So, first do all required changes and add it to staging area but before commi
 
 4. What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
-
 A. When you want to do some experimental changed or want to test some exra feature.
 
 
 
-How do the diagrams help you visualize the branch structure?
+5. How do the diagrams help you visualize the branch structure?
+A. Because Git log doesn't provide overall map of the commits and branches while diagrams will.
+
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
