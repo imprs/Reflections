@@ -9,3 +9,6 @@ A.  "Branch: When more than one commit has the same parent" versus "forks: Here 
     Clone: when want to use someone else's repo on my local machine
 	Branch: while working on experimental feature, I would create new branch.
 	forks: When I want to modify repo made by other user and at the same time I want to publish this updated repo on my GiHub page.
+	
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+A.  It will give me an idea about when I pushed/pulled my changes to GitHub for last.
